@@ -1,0 +1,6 @@
+0=Amali
+1=Perera
+2=Saman
+3=Thilak
+4=Jagath
+5=Kumara
